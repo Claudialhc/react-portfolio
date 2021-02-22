@@ -1,3 +1,6 @@
+### Descrition
+This is a React Portfolio created using Bootstrap, React and compression. The goal of this app is to showcase my professional web developing assets using the latest technologies available. This portfolio includes an About Me section, Contact Page, projects I've worked on and my resume.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
