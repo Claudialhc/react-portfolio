@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import Header from './components/Header';
 import AboutMe from './components/AboutMe';
-import Resume from './components/Resume';
 import Portfolio from './components/Portfolio';
 import Footer from './components/Footer';
 import ContactPage from './components/ContactPage';
@@ -15,7 +14,6 @@ function App() {
       <Header />
       <AboutMe />
       <Portfolio />
-      <Resume />
       <ContactPage />
       <Footer />
     </div>

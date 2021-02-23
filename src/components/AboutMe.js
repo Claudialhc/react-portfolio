@@ -9,7 +9,7 @@ export default class AboutMe extends Component {
             <div className="col-md-12 col-sm-12">
               <div className="card">
                 <div className="card-body">
-                  <h1 className="card-title" id="#home">
+                  <h1 className="card-title" id="home">
                     About Me
                   </h1>
                   <hr />
