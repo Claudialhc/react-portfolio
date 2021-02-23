@@ -9,7 +9,7 @@ export default class Portfolio extends Component {
             <div className="col-md-9 col-sm-12">
               <div className="card">
                 <div className="card-body">
-                  <h1 className="card-title">Portfolio</h1>
+                  <h1 className="card-title" id="#portfolio">Portfolio</h1>
                   <hr />
                   <div className="container">
                     Welcome to my portfolio! Below you will find a collection of
