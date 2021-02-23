@@ -13,9 +13,65 @@ export default class Portfolio extends Component {
                   <hr />
                   <div className="container">
                     Welcome to my portfolio! Below you will find a collection of
-                    some of my best work. Feel free to browse around and click
-                    on the app you wish to see.
-                    <div className="row">
+                    some of my best work. Feel free to click
+                    on the app repo you wish to see.
+                    <hr></hr>
+                    <button type="button" className="btn btn-outline-info">
+                        <a
+                          href="https://github.com/Claudialhc/MovieTaste"
+                          target="_blank"
+                          rel="noreferrer"
+                        >
+                          MovieTaste
+                        </a>
+                      </button>
+                      <button type="button" className="btn btn-outline-info">
+                        <a
+                          href="https://github.com/Claudialhc/eatDaBurgerApp"
+                          target="_blank"
+                          rel="noreferrer"
+                        >
+                          Eat Da Burger
+                        </a>
+                      </button>
+                      <button type="button" className="btn btn-outline-info">
+                        <a
+                          href="https://github.com/Claudialhc/EmployeeTracker"
+                          target="_blank"
+                          rel="noreferrer"
+                        >
+                          Employee Tracker
+                        </a>
+                      </button>
+                      <button type="button" className="btn btn-outline-info">
+                        <a
+                          href="https://github.com/TechKoSpeaks/MeanGame"
+                          target="_blank"
+                          rel="noreferrer"
+                        >
+                          Meanest Game in the World!
+                        </a>
+                      </button>
+                      <button type="button" className="btn btn-outline-info">
+                        <a
+                          href="https://github.com/Claudialhc/budgetTracker"
+                          target="_blank"
+                          rel="noreferrer"
+                        >
+                          Budget Tracker
+                        </a>
+                      </button>
+                      <button type="button" className="btn btn-outline-info">
+                        <a
+                          href="https://github.com/Claudialhc/fitnessTracker"
+                          target="_blank"
+                          rel="noreferrer"
+                        >
+                          Fitness Tracker
+                        </a>
+                      </button>
+
+                    {/* <div className="row">
                       <div className="col-md-6 col-sm-12">
                         <a href="movietaste.html">
                           <img
@@ -81,8 +137,8 @@ export default class Portfolio extends Component {
                             id="about-me-image"
                           />
                         </a>
-                      </div>
-                      <div className="col-md-6 col-sm-12">
+                      </div> */}
+                      {/* <div className="col-md-6 col-sm-12">
                         <a href="employeeTracker.html">
                           <img
                             src="./assests/employeeTrackerApp.png"
@@ -91,13 +147,13 @@ export default class Portfolio extends Component {
                             id="about-me-image"
                           />
                         </a>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                 </div>
               </div>
             </div>
-          </div>
+          {/* </div> */}
         </div>
       </main>
     );

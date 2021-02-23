@@ -15,7 +15,7 @@ export default class AboutMe extends Component {
                   <hr />
 
                   <img
-                    src="./assests/resized-professional.png"
+                    src="./public/assets/headshotCompressed.png"
                     className="img-fluid"
                     alt="professional-headshot"
                     id="about-me-image"
