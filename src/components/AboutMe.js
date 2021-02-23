@@ -54,9 +54,9 @@ export default class AboutMe extends Component {
                     <i className="fas fa-paper-plane"></i>{" "}
                     claudiahdez13@gmail.com
                     <br />
-                    or send me a message via the
-                    <a href="file:///Users/claudiahernandez/github/my-portfolio/contact.html">
-                      contact
+                    or send me a message via the {""}
+                     <a href="file:///Users/claudiahernandez/github/my-portfolio/contact.html">
+                       contact {""}
                     </a>
                     page!
                   </article>
