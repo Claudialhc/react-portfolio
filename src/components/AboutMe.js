@@ -14,12 +14,12 @@ export default class AboutMe extends Component {
                   </h1>
                   <hr />
 
-                  <img
-                    src="./public/assets/headshotCompressed.png"
+                  {/* <img
+                    src="../public/headshotCompressed.png"
                     className="img-fluid"
                     alt="professional-headshot"
                     id="about-me-image"
-                  />
+                  /> */}
                   <p className="card-text">
                     Hi! My name is Claudia Hernandez. I am an experienced,
                     creative and detailed oriented marketer with a knack for
@@ -55,7 +55,7 @@ export default class AboutMe extends Component {
                     claudiahdez13@gmail.com
                     <br />
                     or send me a message via the {""}
-                     <a href="file:///Users/claudiahernandez/github/my-portfolio/contact.html">
+                     <a href="#contact-form">
                        contact {""}
                     </a>
                     page!
